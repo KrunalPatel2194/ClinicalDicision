@@ -45,7 +45,6 @@ $("#btnsubmitbasesymptomduration").click(function () {
     $("#startAss_third").hide();
     $("#startAss_dynamic_yesno").show();
 })
-
 //$(".btnstopfurtherassessment").click(function () {
 
 //    //$.ajax({
